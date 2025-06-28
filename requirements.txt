@@ -1,11 +1,11 @@
 streamlit
-pandas
 sqlalchemy
 scikit-learn
-statsmodels
 matplotlib
 seaborn
 plotly
-numpy
 Pillow
-scipy
+statsmodels==0.14.1
+scipy==1.11.4
+pandas==2.1.4
+numpy==1.24.3
